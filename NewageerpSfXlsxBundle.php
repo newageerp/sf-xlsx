@@ -6,7 +6,7 @@ use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 
-class NewageerpSfImportBundle extends Bundle
+class NewageerpSfXlsxBundle extends Bundle
 {
     public function getContainerExtension(): ?ExtensionInterface
     {
