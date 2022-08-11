@@ -6,3 +6,5 @@ services:
 
   Newageerp\SfXlsx\Controller\XlsxController:
     arguments: [ ]
+  Newageerp\SfXlsx\Service\XlsxService:
+    arguments: [ ]
